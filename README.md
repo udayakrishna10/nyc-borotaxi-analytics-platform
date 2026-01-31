@@ -129,12 +129,6 @@ Integrated **Claude 3.7 Sonnet** to analyze monthly revenue pivots and generate 
 
 ---
 
-## References
-* **Data Source:** [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-* **Image Credit:** [Wikipedia - Boro Taxi](https://en.wikipedia.org/wiki/Boro_taxi)
-
----
-
 ## **Udaya Krishna Karanam**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/udayakrishnakaranam10)
@@ -142,5 +136,6 @@ Integrated **Claude 3.7 Sonnet** to analyze monthly revenue pivots and generate 
 
 ---
 
-* **Image Credit:** [Wikipedia - Boro Taxi](https://upload.wikimedia.org/wikipedia/commons/e/e0/%28USA-New_York%29_NYC_Boro_Cab_Toyota_Camry_NY-Taxi-T762166C_2024-06-16.jpg)
-
+## References
+* **Data Source:** [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+* **Image Credit:** [Wikipedia - Boro Taxi](https://en.wikipedia.org/wiki/Boro_taxi)
