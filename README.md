@@ -88,7 +88,7 @@ Key advantages:
 | **Total Records Processed** | 84,027,827 |
 | **Clean Record Yield** | 99.5% |
 | **Total Revenue Reconciled** | $1.32B+ |
-| **AI Strategy Impact** | Identified 101.2% growth in Bronx |
+| **AI Strategy Impact** | Identified 101.2% growth opportunity in Bronx |
 
 ---
 
